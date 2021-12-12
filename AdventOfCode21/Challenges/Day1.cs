@@ -1,7 +1,4 @@
-﻿using AdventOfCode21.Extensions;
-using System.Diagnostics.CodeAnalysis;
-
-namespace AdventOfCode21.Challenges
+﻿namespace AdventOfCode21.Challenges
 {
     public class Day1 : Day
     {
