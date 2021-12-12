@@ -1,4 +1,4 @@
 ﻿using AdventOfCode21.Challenges;
 
-var day = new Day2();
+var day = new Day3();
 day.Start();
